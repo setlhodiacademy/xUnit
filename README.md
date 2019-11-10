@@ -3,6 +3,7 @@
 This project is intended to demonstrate the basics of unit testing.
 
 Unit Testing is an important part of any development process as it allows us to catch bugs before they make way to production.
+
 When bugs are caught in production it's very expensive to resolve the issues because they have to be logged and once done they have to follow a proper development cycle.
 
 # This project illustrate the use of the following technologies:
